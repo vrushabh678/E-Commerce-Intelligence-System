@@ -1,0 +1,10 @@
+segment,count,avg_recency,avg_frequency,avg_monetary,avg_clv,avg_review_score,revenue_contribution_pct,recommended_action
+At Risk,11111,504.66,1.04,200.16,4673.71,4.21,11.25,"Send win-back campaign with 15% discount, survey for dissatisfaction"
+Champions,14908,121.46,1.09,233.94,4775.35,4.22,17.64,"Launch VIP loyalty program, request reviews, upsell premium"
+Hibernating,7397,426.73,1.0,218.92,4672.68,4.19,8.19,Send standard reactivation campaign based on past category
+Lost,3819,505.83,1.0,199.49,4595.21,4.22,3.85,"Low-cost re-engagement email only, not worth heavy spend"
+Loyal,18769,199.81,1.03,206.15,4638.62,4.07,19.56,"Offer loyalty rewards, cross-sell related categories"
+Need Attention,15016,347.41,1.04,223.69,4871.43,4.14,16.98,"Provide limited-time offers, ask for product feedback"
+Potential Loyal,11140,164.51,1.0,196.14,4604.51,4.16,11.05,"Recommend popular combinations, offer membership trial"
+Promising,3718,251.26,1.0,190.79,4432.45,4.02,3.59,"Build brand awareness, send personalized recommendations"
+Recent,7480,122.72,1.0,208.69,4777.04,4.18,7.89,"Send onboarding guide, trigger 2nd purchase discount"

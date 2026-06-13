@@ -1,0 +1,5 @@
+finding_category,metric,value,business_impact,recommended_action
+Volume & Pricing,Revenue Variance,"₹1,211,240","Volume drove ₹1,108,580, Price drove ₹102,661",Launch targeted volume-driver campaigns.
+Catalog Efficiency,Pareto Concentration,17 categories = 80%,Heavy catalog bloat: 55 categories generate minimal revenue.,Delist bottom 20% of catalog to save storage/focus.
+Regional Performance,Geographic Drag,North,North heavily underperformed average growth of 15.5%,Audit supply chain and marketing in underperforming zones.
+Logistics CSAT,Late Delivery Penalty,"₹7,573,020 At Risk",Late deliveries cause massive CSAT drop (p-value: 0.00e+00).,Re-negotiate SLA with logistics partners handling >10 day routes.

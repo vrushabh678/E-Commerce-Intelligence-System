@@ -1,0 +1,6 @@
+metric_name,value,benchmark,above_benchmark,business_implication
+Overall D30 Retention,1.25%,15.00%,No,Immediate post-purchase engagement is critically low.
+Overall D90 Retention,1.78%,8.00%,No,Long-term habit formation is failing; investigate product quality.
+Revenue Lost to Churn,"₹17,968,065",N/A,N/A,Massive financial leak. Improving D90 by 2% yields millions.
+Death Month,Month 1,Month 3,N/A,Deploy heavy win-back campaigns 2 weeks before this month.
+Best Cohort (M3),2017-06,N/A,N/A,Reverse-engineer marketing campaigns from this month.

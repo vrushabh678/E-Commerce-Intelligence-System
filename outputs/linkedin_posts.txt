@@ -1,0 +1,46 @@
+--------------------------------------------------
+VARIANT 1: TECHNICAL ACHIEVEMENT (For Data/Tech Audience)
+--------------------------------------------------
+Just completed my most comprehensive data project yet! 🚀 
+
+I built an end-to-end E-Commerce Revenue Intelligence System using Python and SQLite, processing over 100,000 orders. I didn't just want to build dashboards; I wanted to drive business value. 
+
+Through advanced SQL CTEs and programmatic RFM segmentation, I identified ₹75.7 Lakhs in revenue actively at risk due to logistics SLA breaches. I then modeled 6-month Customer Lifetime Value (CLV) and built a multi-model time series forecasting engine (comparing SARIMA, Prophet, and Linear Regression).
+
+To wrap it up, I automated the entire delivery pipeline to generate an Executive PDF Report and a Matplotlib KPI Dashboard.
+
+Check out the full repository and architecture here: [GitHub Link]
+I am actively looking for Data Analyst roles where I can bring this level of end-to-end analytical rigor to your team! #DataAnalytics #Python #SQL #MachineLearning #DataScience #DataEngineering
+
+
+--------------------------------------------------
+VARIANT 2: STORY TONE (For Broader Audience)
+--------------------------------------------------
+"Revenue is up 12%, but why are profit margins shrinking?" 🤔
+
+This is the exact business problem I set out to solve in my latest portfolio project. Using a dataset of 100k+ e-commerce orders, I dug past the surface-level metrics to find the real story.
+
+The culprit? A massive retention leak. 
+
+By building a Cohort Retention Matrix, I discovered that 98% of customers were churning by Month 1. Digging deeper into a Root Cause Analysis (RCA), the data revealed that late deliveries (>10 days) were devastating customer satisfaction and bleeding potential lifetime value. 
+
+Data is only valuable if it drives action. So, I built an automated system that segments customers and prescribes exact marketing strategies based on their behavior.
+
+If you love data-driven storytelling as much as I do, check out the full project breakdown here: [GitHub Link] #Analytics #BusinessIntelligence #DataStorytelling
+
+
+--------------------------------------------------
+VARIANT 3: HIRING FOCUSED TONE (Direct & Punchy)
+--------------------------------------------------
+If your team is hiring Data Analysts who can bridge the gap between raw data and executive strategy, let's connect. 🤝
+
+I recently built an automated E-Commerce Intelligence System that features:
+✅ Data Engineering: Raw CSVs to SQLite Star Schema
+✅ Advanced SQL: Complex CTEs for Cohort & Retention modeling
+✅ Customer Intel: NTILE-based RFM Segmentation & LTV prediction
+✅ Machine Learning: Revenue forecasting via SARIMA & Exponential Smoothing
+✅ Automation: Python script that auto-generates multi-page Executive PDFs
+
+I'm a B.Tech AIML graduate ready to bring this technical depth and business acumen to a forward-thinking analytics team. 
+
+Full code and methodology: [GitHub Link] #Hiring #DataAnalyst #DataAnalytics #OpenToWork

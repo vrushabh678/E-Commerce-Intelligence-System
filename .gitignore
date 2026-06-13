@@ -1,0 +1,8 @@
+data/
+__pycache__/
+*.pyc
+ecommerce_analytics.db
+venv/
+.env
+outputs/ecommerce_analytics.db
+Data/

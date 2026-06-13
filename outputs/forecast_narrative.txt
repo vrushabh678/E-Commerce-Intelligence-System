@@ -1,0 +1,5 @@
+Based on 24 months of historical data, our revenue forecast model (using SARIMA (or Fallback)) projects July revenue at ₹17,32,564 (±₹3,46,512), August at ₹20,75,473, and September at ₹20,37,364. This represents a projected stabilization period moving into the end of the year.
+
+Key risk: Month 3 volatility and confidence interval expansion.
+Growth driver: auto.
+Watch: furniture_decor (monitoring for decline).
